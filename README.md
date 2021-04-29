@@ -1,4 +1,4 @@
-# cpsc350-fall2020-assignment2
+# GameOfLife
 
 Eli Annoni (worked alone, no partner)
 2348182
@@ -20,8 +20,7 @@ Compile/run commands:
     - ./assignment2.exe
 
 Errors:
-    No known compiler or runtime errors; occasionally cin will ignore first input
-    and you will need to press the enter key twice.
+    No known compiler or runtime errors.
 
 References:
     - Microsoft Docs (<limits> class)
